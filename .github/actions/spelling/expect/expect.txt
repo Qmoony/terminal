@@ -241,6 +241,7 @@ consoletaeftemplates
 consoleuwp
 CONSOLEWINDOWOWNER
 consrv
+consteval
 constexprable
 contentfiles
 conterm
@@ -1104,6 +1105,7 @@ NOSIZE
 NOSNAPSHOT
 NOTHOUSANDS
 NOTICKS
+notif
 NOTIMEOUTIFNOTHUNG
 NOTIMPL
 NOTOPMOST
